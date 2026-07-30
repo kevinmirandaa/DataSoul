@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/-Node.js%20%2F%20Express-EC5E1E?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-4FN%20Normalizado-FBBF02?style=flat-square" />
 
+<br><br>
+
+<sub>Proyecto desarrollado para el curso de <strong>Bases de Datos I</strong> — Tecnológico de Costa Rica</sub>
+
 </div>
 
 ---
